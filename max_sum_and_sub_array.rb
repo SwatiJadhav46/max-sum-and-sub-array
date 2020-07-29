@@ -45,7 +45,7 @@ class MaxSumAndSubArray
   def print_result
     puts "*******************************************************************"
     puts "Original Array = #{@original_array}"
-    puts "Possible contiguous subarray with max sum = #{@resultant_sub_array}"
-    puts "Maximum sum of resultant subarray = #{@resultant_sub_array.sum}"
+    puts "Possible contiguous subarray with max sum = #{@resultant_sub_array.sum}"
+    puts "Maximum sum of resultant subarray = #{@resultant_sub_array}"
   end
 end
